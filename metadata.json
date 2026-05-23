@@ -1,0 +1,6 @@
+{
+  "name": "Serene Editorial Haven",
+  "description": "A replication of the Serene Editorial Haven full-stack React website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
