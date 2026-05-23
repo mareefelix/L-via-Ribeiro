@@ -589,14 +589,14 @@ function Footer() {
         <div className="grid grid-cols-12 gap-6 lg:gap-10 pb-12 border-b border-ink/20">
           <div className="col-span-12 lg:col-span-5">
             <p className="font-serif italic text-3xl text-ink">Lívia Ribeiro</p>
-            <p className="eyebrow mt-3 text-background font-semibold">Psicóloga · CRP 05/57362</p>
+            <p className="eyebrow mt-3 font-semibold" style={{ color: "#f8fcf8" }}>Psicóloga · CRP 05/57362</p>
             <p className="mt-6 max-w-sm text-ink/75 leading-relaxed">
               Aliviando a ansiedade, gerando o bem-estar. Atendimento online e presencial para
               adultos.
             </p>
           </div>
           <div className="col-span-6 lg:col-span-3">
-            <p className="eyebrow mb-5 text-background font-semibold">Navegação</p>
+            <p className="eyebrow mb-5 font-semibold" style={{ color: "#f8fcf8" }}>Navegação</p>
             <ul className="space-y-3 text-sm text-ink/80">
               <li>
                 <a href="#para-quem" className="hover:text-ink transition-colors">
@@ -621,7 +621,7 @@ function Footer() {
             </ul>
           </div>
           <div className="col-span-6 lg:col-span-4">
-            <p className="eyebrow mb-5 text-background font-semibold">Contato</p>
+            <p className="eyebrow mb-5 font-semibold" style={{ color: "#f8fcf8" }}>Contato</p>
             <ul className="space-y-3 text-sm text-ink/80">
               <li>WhatsApp · (24) 99919-8075</li>
               <li>
